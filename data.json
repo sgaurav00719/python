@@ -1,0 +1,24 @@
+{
+    "cars": [
+        {
+            "model": "Tesla Model 3",
+            "color": "red",
+            "year": 2021,
+            "features": {
+                "autopilot": true,
+                "battery": "Long Range",
+                "wheels": "18 inch"
+            }
+        },
+        {
+            "model": "Audi A4",
+            "color": "blue",
+            "year": 2020,
+            "features": {
+                "parking sensors": true,
+                "engine": "2.0L TFSI",
+                "wheels": "17 inch"
+            }
+        }
+    ]
+}
