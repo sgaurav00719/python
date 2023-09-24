@@ -1,1 +1,17 @@
-{"model": "Tesla Model 3", "color": "red", "year": 2021}
+[
+  {
+    "model": "Tesla Model 3",
+    "color": "red",
+    "year": 2021
+  },
+  {
+    "model": "Ford Mustang",
+    "color": "black",
+    "year": "2001"
+  },
+  {
+    "model": "Mercedes Benz",
+    "color": "white",
+    "year": "2001"
+  }
+]
